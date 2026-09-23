@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "233751fa6432cae9ff3416a5",
+  "owner": "cyhttgr",
+  "repo": "page-74ddfadeb8b53a2715005e3a",
+  "title": "翻云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "74ddfadeb8b53a2715005e3a",
+      "a": "翻云",
+      "b": "2027官方最新地址导航",
+      "entity": "翻云",
+      "brand": "翻云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f2ef6fd5d4824ee61c56801283546c9997ff3f51b6f87b22ec6ce6f6d2b37923",
+      "content": {
+        "primary_entity": "翻云",
+        "keyword1": "翻云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选对应客户端，再导入订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "从基础版起步，按设备数量与流量需求升级到旗舰版或团队版。",
+          "AI_CLOSING_TITLE": "选合适套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 到 1000GB 月流量，支持 3 台至 20 台设备同时在线，可解锁流媒体并搭配 IPLC 专线优化，按年付更省。",
+          "AI_FEATURES_INTRO": "围绕设备数量、订阅周期与线路类型做选择，让翻云更贴合日常使用。",
+          "AI_FEATURES_TITLE": "特点与选型",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月，100GB 流量与 3 台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月，300GB 流量、5 台设备与 IPLC 专线，兼顾游戏与高清视频。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月，1000GB 流量、20 台设备与 VIP 高带宽节点，适合多人协作。",
+          "AI_FEATURE_TITLE_1": "套餐分档",
+          "AI_FEATURE_TITLE_2": "设备支持",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "根据设备数量与流量习惯确定版本，再完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步使用",
+          "AI_HERO_INTRO": "翻云提供多档海外加速套餐，按流量、设备数与线路类型区分，方便依据自身使用场景做选择。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选择",
+          "AI_HIGHLIGHT_1": "基础版 100GB 月流量，3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB 月流量，5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 月流量，20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，均可按年付享优惠。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按同时在线设备数与月流量需求，在基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与线路类型，确认符合使用习惯。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "翻云套餐速览",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，适合轻度浏览与社交；旗舰版每月 300GB、支持 5 台设备，并带 IPLC 专线与流媒体解锁；团队版每月 1000GB、支持 20 台设备，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "按年付比月付更划算。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，相当于每月比月付低几元到十几元，长期使用建议选择年付。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 5 台设备同时在线，覆盖手机、电脑和平板通常够用；如果家里有路由器、电视盒子等多台终端，团队版 20 台设备更宽裕。",
+          "AI_FAQ_ANSWER_4": "Windows 可用 Clash Verge 或 v2rayN，macOS 可用 ClashX，iOS 用 Shadowrocket，Android 用 Clash Meta，路由器按固件选择对应插件。导入订阅后选择节点即可。",
+          "AI_FAQ_ANSWER_5": "月流量指每个计费周期内可用的总流量，超出后该周期内速度会受到限制，下个周期自动恢复。日常浏览、看视频按需选择 100GB 或 300GB 档即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量不够用怎么办？",
+          "AI_FAQ_QUESTION_4": "不同系统应该用哪个客户端？",
+          "AI_FAQ_QUESTION_5": "套餐里的月流量是怎么计算的？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ouonetwork-cn3r594m.com",
+    "host": "xn--ouonetwork-cn3r594m.com"
+  },
+  "file_hashes": {
+    "index.html": "b8af11605b0c8faeebcd365a8e1fcbc034691da6729469e6a85af118ae2005bb",
+    "sitemap.xml": "fe2c1126a480af5c3b26e41cc6498d52245ba843a1972935397ab2f336b53a2b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "45a86cc6270627bd35e87f6c837ed01b9ba87f0e95d1df6f8344eec133903df4",
+    "robots.txt": "caaa4fa81532a7005e5525837bf658bc645cdc1cdaeae20aefd16843f0c5bc1c",
+    "410cb631e0352463402e17a3bb338965.txt": "a2735db7042bc2b1d4fbd7d82465462aed4fc08e186ec09d9698273bb5edce65"
+  },
+  "revision": "0330afd8d7ee40d490391b2b2cdcf11dbc66d601a175b1878fd19c6681c8c979"
+}
